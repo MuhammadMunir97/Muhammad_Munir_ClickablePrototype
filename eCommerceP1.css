@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+.size-1{
+    height: 30px;
+    width: 30px;
+}
+.margin-1{
+    margin:20px;
+    padding: 8px;
+    vertical-align: top;
+}
+.size-2{
+    height: 180px;
+    width: 140px;
+    margin: 20px;
+}
+.padding-1{
+    padding: 10px;
+    color: white;
+}
+.size-3{
+    height: 280px;
+    width: 220px;
+}
+.margin-2{
+    margin: 40px;
+}
+.vert{
+    vertical-align: top;
+    margin-top: 38px;
+}
+.size-4{
+    height: 40px;
+    width: 40px;
+    margin: 6px;
+}
+.size-5{
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+}
+.padding-2{
+    padding: 10px;
+}
